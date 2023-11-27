@@ -41,7 +41,7 @@ git clone https://github.com/celestiaorg
 --------------------------
 CELESTIA_NODENAME="MY" 
 CELESTIA_WALLET="MY_WALLET"
-CELESTIA_CHAIN="mamaki"
+CELESTIA_CHAIN="
 
 اطلاعات  داخل "" رو پاک کنید(فقط خط اول و دوم) و اطلاعات خودتون رو قرار بدید
 به عنوان مثال :

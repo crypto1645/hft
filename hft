@@ -46,7 +46,7 @@ CELESTIA_CHAIN="
 اطلاعات  داخل "" رو پاک کنید(فقط خط اول و دوم) و اطلاعات خودتون رو قرار بدید
 به عنوان مثال :
 
-CELESTIA_NODENAME="amir" 
+CELESTIA_NODENAME=
 CELESTIA_WALLET="amir8372"
 CELESTIA_CHAIN="mamaki"
 

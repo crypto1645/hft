@@ -39,7 +39,7 @@ rm -rf networks
 git clone https://github.com/celestiaorg
 
 --------------------------
-CELESTIA_NODENAME="MY" 
+CELESTIA_NODENAME="hft" 
 CELESTIA_WALLET="MY_WALLET"
 CELESTIA_CHAIN="
 

@@ -86,7 +86,7 @@ s/^max-num-outbound-peers *=.*/max-num-outbound-peers = $max_num_outbound_peers/
 s/^max-connections *=.*/max-connections = $max_connections/" $HOME/.celestia-app/config/config
 
 ------------------------------------------------
-pruning_keep_recent="100" 
+pruning_keep_recent="1
 pruning_interval
 
 ------------------------------------------------------

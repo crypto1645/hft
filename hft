@@ -135,7 +135,7 @@ Press CTRL+C to stop the logs
 
 -------------------------------------------------------------
 
-sudo systemctl stop celestia
+sudo systemctl stop
 
 --------------------------------------------------------------
 

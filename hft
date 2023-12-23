@@ -36,7 +36,7 @@ git clone https://github.com/celestiaorg
 -------------------------------
 cd $HOME
 rm -rf networks
-git clone https://github.com/celestiaorg
+git clone https://github.com/celestia
 
 --------------------------
 CELESTIA_NODENAME="hft" 

@@ -40,7 +40,7 @@ git clone https://github.com/celestia
 
 --------------------------
 CELESTIA_NODENAME="hft" 
-CELESTIA_WALLET="MY_WALLET"
+CELESTIA_WALLET="MY
 CELESTIA_CHAIN="
 
 اطلاعات  داخل "" رو پاک کنید(فقط خط اول و دوم) و اطلاعات خودتون رو

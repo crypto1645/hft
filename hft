@@ -43,7 +43,7 @@ CELESTIA_NODENAME="hft"
 CELESTIA_WALLET="MY
 CELESTIA_CHAIN="madtp
 
-اطلاعات  داخل "" رو پاک کنید(فقط خط اول و دوم) و اطلاعات خودتون رو
+اطلاعات  داخل "" رو پاک کنید(فقط خط اول و دوم) و اطلاعات
 
 CELESTIA_NODENAME=
 CELESTIA_WALLET="nase

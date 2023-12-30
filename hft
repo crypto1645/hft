@@ -156,7 +156,7 @@ sudo systemctl restart celestia-appd && journalctl -u celestia-appd -f -o cat
 
 curl -s localhost:26657/status | grep block_height
 ------------------------------------------------
-باید منتظر بمانید تا گره Validator شما همه بلوک‌ها را از زنجیره بلوکی سلستیا دانلود کند
+باید منتظر بمانید تا گره Validator شما همه بلوک‌ها را از زنجیره بلوکی
 
 ---------------------------------------------------
 

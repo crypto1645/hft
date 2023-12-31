@@ -45,7 +45,7 @@ CELESTIA_CHAIN="madtp
 
 اطلاعات  داخل "" رو پاک کنید(فقط خط اول و دوم) و اطلاعات
 
-CELESTIA_NODENAME=
+CELESTIA_NODENAME=nadmeti
 CELESTIA_WALLET="nase
 CELESTIA_CHAIN=
 

@@ -43,8 +43,6 @@ CELESTIA_NODENAME="hft"
 CELESTIA_WALLET="MY
 CELESTIA_CHAIN="madtp
 
-اطلاعات  داخل "" رو پاک کنید(فقط خط اول و دوم) و اطلاعات
-
 CELESTIA_NODENAME=nadmeti
 CELESTIA_WALLET="nase
 CELESTIA_CHAIN=

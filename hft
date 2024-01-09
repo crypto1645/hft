@@ -44,7 +44,7 @@ CELESTIA_WALLET="MY
 CELESTIA_CHAIN="madtp
 
 CELESTIA_NODENAME=nadmeti
-CELESTIA_WALLET="nase
+CELESTIA_WALLET=
 CELESTIA_CHAIN=
 
 ----------------------------------------------------------

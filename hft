@@ -45,7 +45,7 @@ CELESTIA_CHAIN="madtp
 
 CELESTIA_NODENAME=nadmeti
 CELESTIA_WALLET=
-CELESTIA_CHAIN=
+CELESTIA_CHAIN=mamadi
 
 ----------------------------------------------------------
 echo 'export CELESTIA_CHAIN='$CELESTIA_CHAIN >> $HOME/.bash_profile

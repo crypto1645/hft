@@ -11,7 +11,7 @@ cd $HOME
 ver="1.18.3"
 wget "https://golang.org/dl/go$ver.linux-amd64
 sudo rm -rf /usr/local/go
-sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tar
+sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tme
 rm "go$ver.linux-amd64.tar.gz"
 echo "export PATH=$:/usr/local/go/bin:$HOME/go/bin"
 source $HOME/.bash

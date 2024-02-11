@@ -22,7 +22,7 @@ go version
 --------------------------------------
 cd $HOME
 rm -rf celestia-app
-git clone https://github.com/celestiao/celestia-app.git
+git clone https://github.com/celestiao/celestia-app.github
 cd celestia-app
 git checkout v0.6.2
 make

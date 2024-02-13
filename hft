@@ -31,7 +31,7 @@ make
 celestia-appd version
 
 -------------------------------------------
-git clone https://github.com/cele
+git clone https://github.com
 
 -------------------------------
 cd $HOME

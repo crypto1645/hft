@@ -157,8 +157,7 @@ curl -s localhost:26657/status | grep block_height
 
 ---------------------------------------------------
 
-celestia-appd keys add $CELESTIA_WALLET
-
+celestia-appd keys add $CELESTIA_
 اطلاعات دریافتی این بخش رو توی نوت پد برای خودتون ذخیره کنید
 
 -----------------------------------

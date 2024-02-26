@@ -27,7 +27,7 @@ cd celestia-app
 git checkout v0.6.2
 
 -------------------------------------------------
-celestia-appd version
+celestia-appd version1.28
 
 -------------------------------------------
 git clone https://github.com

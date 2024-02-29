@@ -64,7 +64,7 @@ BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/network
 echo
 
 ------------------------------------------------
-sed -i.bak -e "s/^bootstrap-peers *=.*/bootsp-peers = \"$BOOTSTRAP_PEERS\"/" $HOME/.celestia-app/config/config.toml
+sed -i.bak -e "s/^bootstrap-peers *=.*/bootsp-peers = \"$BOOTSTRAP_PEERS\"/" $HOME/.celestia-app/config/config
 
 -----------------------------------------------------------
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml

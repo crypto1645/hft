@@ -7,7 +7,7 @@ sudo apt update && sudo apt upgrade
 ---------------------------------------------
 sudo apt install curl tar wget clang pkg-config libs
 --------------------------------------------
-cd $HOME
+cd $HOMi
 ver="1.18.3"
 wget "https://golang.org/dl/go$ver.linux-amd64
 sudo rm -rf /usr/local/goverzon1.89

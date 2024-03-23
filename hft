@@ -55,7 +55,7 @@ source $HOME/.bash_profile
 ------------------------------------------------
 celestia-appd init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
 ---------------------------------------
-sed -i 's/mode = \"full\"/mode = \"validator\"/g' $HOME/.celestia-app/config/config
+sed -i 's/mode = \"full\"/mode = \"validator\"/g' $HOME/.celestia-app/config/
 
 ---------------------------------------------
 BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers

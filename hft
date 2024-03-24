@@ -13,7 +13,7 @@ wget "https://golang.org/dl/go$ver.linux-amd64
 sudo rm -rf /usr/local/goverzon1.89
 sudo tar -C /usr/local -xzf "go$ver.linux-amd64
 rm "go$ver.linux-amd64.tar.gz"
-echo "export PATH=$:/usr/local/go/bin:$HOME/go/bin"
+echo "export PATH=$:/usr/local/go/bin:$HOME/go/bin
 source $HOME/.bash
 
 -------------------------------------
